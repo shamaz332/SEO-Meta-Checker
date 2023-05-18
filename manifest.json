@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "SEO Meta Checker",
+    "description": "This extension checks a page's meta tags",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon.jpg",
+            "48": "images/icon.jpg",
+            "128": "images/icon.jpg"
+        }
+    },
+    "icons": {
+        "16": "images/icon.jpg",
+        "48": "images/icon.jpg",
+        "128": "images/icon.jpg"
+    }
+}
